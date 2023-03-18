@@ -1,4 +1,4 @@
-package functions;
+package Functions;
 
 public class primenumber {
     public static void main(String[] args) {

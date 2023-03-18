@@ -1,4 +1,4 @@
-package functions;
+package Functions;
 
 public class factorial {
     public static int factorial(int n) {
