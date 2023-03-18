@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe571ae7-dcbc-4a99-9cd4-9fc731a7b164" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/pairs.java" afterDir="false" />
+    <list default="true" id="fe571ae7-dcbc-4a99-9cd4-9fc731a7b164" name="Changes" comment="adding code">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/subarrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,20 +53,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.pairs">
-    <configuration name="LSofstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.LSofstring" />
-      <module name="learning-again" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.subarrays">
     <configuration name="binaryS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.searching.binaryS" />
       <module name="learning-again" />
@@ -118,13 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="subarrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.subarrays" />
+      <module name="learning-again" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.subarrays" />
         <item itemvalue="Application.pairs" />
         <item itemvalue="Application.reversing" />
         <item itemvalue="Application.binaryS" />
         <item itemvalue="Application.largestnum" />
-        <item itemvalue="Application.LSofstring" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679169702193</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="adding code">
+      <created>1679170860281</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679170860281</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,7 +224,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="adding code" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -230,6 +239,11 @@
           <url>file://$PROJECT_DIR$/src/Arrays/searching/binaryS.java</url>
           <line>14</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/subarrays.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Arrays/LinearSrch.java</url>
