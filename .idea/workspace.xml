@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe571ae7-dcbc-4a99-9cd4-9fc731a7b164" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/LSofstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/largestnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/reversing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/searching/binaryS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/pairs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,22 +52,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.reversing">
+  <component name="RunManager" selected="Application.pairs">
     <configuration name="LSofstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.LSofstring" />
-      <module name="learning-again" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinearSrch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.LinearSrch" />
       <module name="learning-again" />
       <extension name="coverage">
         <pattern>
@@ -109,6 +92,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.pairs" />
+      <module name="learning-again" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="reversing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.reversing" />
       <module name="learning-again" />
@@ -124,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pairs" />
         <item itemvalue="Application.reversing" />
         <item itemvalue="Application.binaryS" />
         <item itemvalue="Application.largestnum" />
         <item itemvalue="Application.LSofstring" />
-        <item itemvalue="Application.LinearSrch" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679155661370</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="first commit">
+      <created>1679169702193</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679169702193</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
