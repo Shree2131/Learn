@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe571ae7-dcbc-4a99-9cd4-9fc731a7b164" name="Changes" comment="adding code">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/kadansalgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/maybe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/assignments/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/assignments/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basicsortings/bubblesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basicsortings/selectionsort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,13 +71,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.kadansalgo">
-    <configuration name="binaryS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.searching.binaryS" />
+  <component name="RunManager" selected="Application.selectionsort">
+    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.assignments.Q1" />
       <module name="learning-again" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.searching.*" />
+          <option name="PATTERN" value="Arrays.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,8 +85,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kadansalgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.kadansalgo" />
+    <configuration name="Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.assignments.Q5" />
+      <module name="learning-again" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrappingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.TrappingRainWater" />
       <module name="learning-again" />
       <extension name="coverage">
         <pattern>
@@ -95,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.pairs" />
+    <configuration name="bubblesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basicsortings.bubblesort" />
       <module name="learning-again" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Basicsortings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,25 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reversing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.reversing" />
+    <configuration name="selectionsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basicsortings.selectionsort" />
       <module name="learning-again" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="subarrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.subarrays" />
-      <module name="learning-again" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Basicsortings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.kadansalgo" />
-        <item itemvalue="Application.subarrays" />
-        <item itemvalue="Application.pairs" />
-        <item itemvalue="Application.reversing" />
-        <item itemvalue="Application.binaryS" />
+        <item itemvalue="Application.selectionsort" />
+        <item itemvalue="Application.bubblesort" />
+        <item itemvalue="Application.Q5" />
+        <item itemvalue="Application.Q1" />
+        <item itemvalue="Application.TrappingRainWater" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679170860281</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="adding code">
+      <created>1679220218789</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679220218789</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
