@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe571ae7-dcbc-4a99-9cd4-9fc731a7b164" name="Changes" comment="adding code">
-      <change afterPath="$PROJECT_DIR$/src/Basicsortings/insertionsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basicsortings/countingsort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,20 +67,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.insertionsort">
-    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.assignments.Q1" />
-      <module name="learning-again" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.assignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.countingsort">
     <configuration name="Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.assignments.Q5" />
       <module name="learning-again" />
@@ -96,6 +83,19 @@
     </configuration>
     <configuration name="bubblesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basicsortings.bubblesort" />
+      <module name="learning-again" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basicsortings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="countingsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basicsortings.countingsort" />
       <module name="learning-again" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.countingsort" />
         <item itemvalue="Application.insertionsort" />
         <item itemvalue="Application.selectionsort" />
         <item itemvalue="Application.bubblesort" />
         <item itemvalue="Application.Q5" />
-        <item itemvalue="Application.Q1" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679319112861</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="adding code">
+      <created>1679321657501</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679321657501</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
