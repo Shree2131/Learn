@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe571ae7-dcbc-4a99-9cd4-9fc731a7b164" name="Changes" comment="adding code">
-      <change afterPath="$PROJECT_DIR$/src/Basicsortings/countingsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TwoDArrays/basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TwoDArrays/spriralmatrices.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,26 +68,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.countingsort">
-    <configuration name="Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.assignments.Q5" />
+  <component name="RunManager" selected="Application.spriralmatrices">
+    <configuration name="basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.TwoDArrays.basics" />
       <module name="learning-again" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.assignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="bubblesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basicsortings.bubblesort" />
-      <module name="learning-again" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basicsortings.*" />
+          <option name="PATTERN" value="Arrays.TwoDArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,13 +121,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="spriralmatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.TwoDArrays.spriralmatrices" />
+      <module name="learning-again" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.TwoDArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.spriralmatrices" />
+        <item itemvalue="Application.basics" />
         <item itemvalue="Application.countingsort" />
         <item itemvalue="Application.insertionsort" />
         <item itemvalue="Application.selectionsort" />
-        <item itemvalue="Application.bubblesort" />
-        <item itemvalue="Application.Q5" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679321657501</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="adding code">
+      <created>1679323382488</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1679323382488</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
