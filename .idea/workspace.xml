@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe571ae7-dcbc-4a99-9cd4-9fc731a7b164" name="Changes" comment="adding code">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TwoDArrays/basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TwoDArrays/spriralmatrices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fe571ae7-dcbc-4a99-9cd4-9fc731a7b164" name="Changes" comment="adding code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -251,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679323382488</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="adding code">
+      <created>1679522222530</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1679522222530</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
