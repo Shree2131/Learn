@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe571ae7-dcbc-4a99-9cd4-9fc731a7b164" name="Changes" comment="adding code">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TwoDArrays/DiagonalSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/ShortestPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/pallindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SearchInSortedMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings/concatenate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/concatenate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +68,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ShortestPath">
+  <component name="RunManager" selected="Application.SearchInSortedMatrix">
     <configuration name="DiagonalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.TwoDArrays.DiagonalSum" />
       <module name="learning-again" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Arrays.TwoDArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInSortedMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.SearchInSortedMatrix" />
+      <module name="learning-again" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.TwoDArrays.basics" />
+    <configuration name="concatenate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.concatenate" />
       <module name="learning-again" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.TwoDArrays.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,26 +134,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="spriralmatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.TwoDArrays.spriralmatrices" />
-      <module name="learning-again" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.TwoDArrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchInSortedMatrix" />
+        <item itemvalue="Application.concatenate" />
         <item itemvalue="Application.ShortestPath" />
         <item itemvalue="Application.pallindrome" />
         <item itemvalue="Application.DiagonalSum" />
-        <item itemvalue="Application.spriralmatrices" />
-        <item itemvalue="Application.basics" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679522437725</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="adding code">
+      <created>1679581935329</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1679581935329</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
