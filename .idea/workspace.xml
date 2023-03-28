@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe571ae7-dcbc-4a99-9cd4-9fc731a7b164" name="Changes" comment="adding code">
-      <change afterPath="$PROJECT_DIR$/src/Strings/Stringcompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/stringbuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/toUppercase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Basics/constructorOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/anagrams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +49,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -69,20 +71,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Stringcompression">
-    <configuration name="SearchInSortedMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.SearchInSortedMatrix" />
-      <module name="learning-again" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.basics">
     <configuration name="Stringcompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Strings.Stringcompression" />
       <module name="learning-again" />
@@ -96,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="concatenate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.concatenate" />
+    <configuration name="anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.anagrams" />
       <module name="learning-again" />
       <extension name="coverage">
         <pattern>
@@ -109,12 +98,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringbuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.stringbuilder" />
+    <configuration name="basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.basics" />
       <module name="learning-again" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="constructorOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops.Basics.constructorOverloading" />
+      <module name="learning-again" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oops.Basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.basics" />
+        <item itemvalue="Application.constructorOverloading" />
+        <item itemvalue="Application.anagrams" />
         <item itemvalue="Application.Stringcompression" />
         <item itemvalue="Application.toUppercase" />
-        <item itemvalue="Application.stringbuilder" />
-        <item itemvalue="Application.SearchInSortedMatrix" />
-        <item itemvalue="Application.concatenate" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679585014443</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="adding code">
+      <created>1679602379663</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1679602379663</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,6 +330,11 @@
           <url>file://$PROJECT_DIR$/src/Basicsortings/insertionsort.java</url>
           <line>14</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/anagrams.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Arrays/LinearSrch.java</url>
