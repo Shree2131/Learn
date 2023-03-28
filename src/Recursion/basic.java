@@ -1,6 +1,6 @@
 package Recursion;
 
-public class basics {
+public class basic {
     public static void main(String[] args) {
         int n = 10;
         printInc(n);
